@@ -2,6 +2,7 @@
 
 This project builds an end-to-end **house price prediction system** using structured real estate data, covering EDA, feature engineering, model training, and deployment via a Flask API.
 
+### TEST THE API AT https://verdant-khapse-2373d6.netlify.app/
 ## Files Overview
 
 - **eda.py**  
